@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -188,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +206,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6db0b40f6fac7d1f",
+  "active": "fd1ed2b539f8bdff",
   "lastOpenFiles": [
     "Pituitary Gland.md",
     "Hypothalamus.md",

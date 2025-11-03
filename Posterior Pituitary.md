@@ -5,3 +5,7 @@
 
 - [[ADH]]
 - [[Oxytocin]]
+
+- Axons of hypothalamic neurons *extend* into the **posterior pituitary**
+- Hormones produced in the hypothalamus transport to the axon terminals (which are in the posterior pituitary)
+- [[Depolarization]] causes the hormon
