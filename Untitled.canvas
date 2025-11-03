@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"82644de2d7d5bcfc","x":0,"y":20,"width":280,"height":80,"type":"file","file":"Endocrine System.md"},
+		{"id":"2155c610af4ae804","x":388,"y":-142,"width":400,"height":400,"type":"file","file":"Hypothalamus.md"},
+		{"id":"e0d358eba53b044b","x":205,"y":409,"width":355,"height":71,"type":"file","file":"Pituitary Gland.md"}
+	],
+	"edges":[
+		{"id":"c4e1577baa6937e9","fromNode":"82644de2d7d5bcfc","fromSide":"right","toNode":"2155c610af4ae804","toSide":"left"},
+		{"id":"df2c020c75862ef3","fromNode":"2155c610af4ae804","fromSide":"bottom","toNode":"e0d358eba53b044b","toSide":"top"}
+	]
+}
