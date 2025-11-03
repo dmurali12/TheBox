@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: DESC

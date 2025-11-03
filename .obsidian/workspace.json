@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "386c44b80621f717",
+    "type": "split",
+    "children": [
+      {
+        "id": "212d30d9b410d901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1ed2b539f8bdff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fc999c4916d7ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "c60cec1e5500b9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b09ab491957006a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e9baca5280fe48a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35b88333ececd8d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b19a6b5b19ebd17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f0efce8fce5607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9f44996e698735",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HPA Axis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HPA Axis"
+            }
+          },
+          {
+            "id": "9403f06b7326e37d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HPA Axis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HPA Axis"
+            }
+          },
+          {
+            "id": "bb1b5c2ee2341302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8c5b24224d8b5c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HPA Axis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HPA Axis"
+            }
+          },
+          {
+            "id": "6db0b40f6fac7d1f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Amino Acid-Derived Hormones.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "67043cfcc1c39f53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "fd1ed2b539f8bdff",
+  "lastOpenFiles": [
+    "Posterior Pituitary.md",
+    "Pituitary Gland.md",
+    "Anterior Pituitary.md",
+    "Hypothalamus.md",
+    "Portal System.md",
+    "Personal Access Token.md",
+    "Users/dixshetamuralikrishnan/Documents/TheBox",
+    "Users/dixshetamuralikrishnan/Documents",
+    "Users/dixshetamuralikrishnan",
+    "Users",
+    "Adrenal Cortex.md",
+    "Action Potentials.md",
+    "Amino Acid-Derived Hormones.md",
+    "Renin-Angiotenisin-Aldosterone System.md",
+    "Thyroid Axis.md",
+    "stimulating.md",
+    "Tropic.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Endocrine System.md",
+    "Peptide Hormones.md",
+    "Nervous System Organization.md",
+    "Menstrual Cycle.md",
+    "Low Threshold Depolarization.md",
+    "HPA Axis.md",
+    "Articles.base",
+    "Types of Hormones.md",
+    "Steroid Hormones.md",
+    "Hormones.md",
+    "Glucocorticoids.md",
+    "Cat out of Box 2.0.md"
+  ]
+}
