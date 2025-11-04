@@ -41,4 +41,9 @@ The glands listed above and their hormones act together to maintain ***homeostas
 2. Pituitary gland releases endocrine signal
 3. Signal travels to and acts on target tissue
 
-The fu
+The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
+
+The [[Anterior Pituitary|anterior pituitary]] is made of glandular tissue that can both synthesize and secrete **tropic** [[Peptide Hormones|peptide hormones]].  
+
+whether the axis uses the [[Anterior Pituitary|anterior pituitary]] or the [[Posterior Pituitary|posterior pituitary]].
+
