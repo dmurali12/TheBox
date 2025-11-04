@@ -8,29 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b83e2448a27bf8d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 1550.9200000000044,
-                  "y": 158.77000000000004,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "514357e47c43d26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reproductive Axis.md",
+                "file": "Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reproductive Axis"
+              "title": "Endocrine System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,12 +219,12 @@
   },
   "active": "514357e47c43d26d",
   "lastOpenFiles": [
-    "Endocrine System.md",
     "Reproductive Axis.md",
+    "Untitled.canvas",
+    "Endocrine System.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 16.07.14.excalidraw.md",
     "Untitled.md",
-    "Untitled.canvas",
     "Excalidraw",
     "Neuron Structure.md",
     "Posterior Pituitary.md",
@@ -269,7 +251,6 @@
     "Tropic.md",
     "Untitled.base",
     "Peptide Hormones.md",
-    "Nervous System Organization.md",
     "Articles.base"
   ]
 }
