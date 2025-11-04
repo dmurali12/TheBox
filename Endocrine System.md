@@ -38,4 +38,6 @@ Hormones are known as either **tropic** or **direct** depending on what they act
 # Hormone Systems
 The glands listed above and their hormones act together to maintain ***homeostasis*** within the body. Generally, many of these axes follow this pattern:
 1. Hypothalamus sends signal (could be electrical or endocrine) in response to internal or external factors
-2. 
+2. Pituitary gland releases endocrine signal
+3. Signal travels to and acts on target tissue
+

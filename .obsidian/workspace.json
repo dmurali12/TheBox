@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -207,8 +208,9 @@
   },
   "active": "1b83e2448a27bf8d",
   "lastOpenFiles": [
-    "Hypothalamus.md",
+    "2025-11-03.md",
     "Endocrine System.md",
+    "Hypothalamus.md",
     "HPA Axis.md",
     "Low Threshold Depolarization.md",
     "Menstrual Cycle.md",
