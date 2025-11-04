@@ -62,6 +62,5 @@ The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produc
 
 
 
-
 whether the axis uses the [[Anterior Pituitary|anterior pituitary]] or the [[Posterior Pituitary|posterior pituitary]].
 
