@@ -2,5 +2,6 @@
   "cssTheme": "Obsidian Nord",
   "baseFontSizeAction": true,
   "translucency": false,
-  "accentColor": "#b75c65"
+  "accentColor": "#b75c65",
+  "theme": "system"
 }

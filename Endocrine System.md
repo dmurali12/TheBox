@@ -41,3 +41,4 @@ The glands listed above and their hormones act together to maintain ***homeostas
 2. Pituitary gland releases endocrine signal
 3. Signal travels to and acts on target tissue
 
+The fu
