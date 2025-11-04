@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "25cb67d6d508f603",
+            "id": "514357e47c43d26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Reproductive Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,23 +45,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "514357e47c43d26d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-04 16.07.39.excalidraw"
+              "title": "Reproductive Axis"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
+                "file": "Reproductive Axis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-11-04 16.07.39.excalidraw"
+              "title": "Outline of Reproductive Axis"
             }
           },
           {
@@ -197,7 +185,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md"
+                "file": "Reproductive Axis.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -249,13 +237,13 @@
   },
   "active": "514357e47c43d26d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-04 16.07.14.excalidraw.md",
+    "Endocrine System.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-04 16.07.14.excalidraw.md",
     "Untitled.md",
     "Untitled.canvas",
     "Excalidraw",
     "Reproductive Axis.md",
-    "Endocrine System.md",
     "Neuron Structure.md",
     "Posterior Pituitary.md",
     "Anterior Pituitary.md",
