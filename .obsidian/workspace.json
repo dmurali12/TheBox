@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System.md",
+                "file": "Reproductive Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Endocrine System"
+              "title": "Reproductive Axis"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endocrine System.md",
+                "file": "Reproductive Axis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Endocrine System"
+              "title": "Outline of Reproductive Axis"
             }
           },
           {
@@ -168,7 +168,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Endocrine System.md"
+                "file": "Reproductive Axis.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -208,8 +208,9 @@
   },
   "active": "1b83e2448a27bf8d",
   "lastOpenFiles": [
-    "Neuron Structure.md",
     "Endocrine System.md",
+    "Reproductive Axis.md",
+    "Neuron Structure.md",
     "Posterior Pituitary.md",
     "Anterior Pituitary.md",
     "Pituitary Gland.md",
@@ -239,7 +240,6 @@
     "Articles.base",
     "Types of Hormones.md",
     "Steroid Hormones.md",
-    "Hormones.md",
-    "Glucocorticoids.md"
+    "Hormones.md"
   ]
 }

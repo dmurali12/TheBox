@@ -50,6 +50,7 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
 #### Axes Involving Anterior Pituitary
+- [[Reproductive Axis]]
 
 
 ### [[Posterior Pituitary]]
