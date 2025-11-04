@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System.md",
+                "file": "HPA Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Endocrine System"
+              "title": "HPA Axis"
             }
           }
         ]
@@ -219,9 +219,9 @@
   },
   "active": "514357e47c43d26d",
   "lastOpenFiles": [
+    "Endocrine System.md",
     "Reproductive Axis.md",
     "Untitled.canvas",
-    "Endocrine System.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 16.07.14.excalidraw.md",
     "Untitled.md",
