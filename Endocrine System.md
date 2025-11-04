@@ -49,7 +49,10 @@ The pituitary gland has two lobes: the ***anterior** pituitary* and the ***poste
 The [[Anterior Pituitary|anterior pituitary]] is made of glandular tissue that can both synthesize and secrete **tropic** [[Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
-The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases 
+### [[Posterior Pituitary]]
+The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases the hormones (known as **neurohormones**) from the [[Neuron Structure|axon terminals]]. 
+
+
 
 
 
