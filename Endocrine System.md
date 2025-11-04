@@ -45,10 +45,13 @@ The glands listed above and their hormones act together to maintain ***homeostas
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
 
+### [[Anterior Pituitary]]
 The [[Anterior Pituitary|anterior pituitary]] is made of glandular tissue that can both synthesize and secrete **tropic** [[Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
-The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produces*. 
+The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases 
+
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pituitary Gland"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pituitary Gland.md",
+                "file": "Endocrine System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pituitary Gland"
+              "title": "Outline of Endocrine System"
             }
           },
           {
@@ -168,7 +168,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Pituitary Gland.md"
+                "file": "Endocrine System.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -208,14 +208,14 @@
   },
   "active": "1b83e2448a27bf8d",
   "lastOpenFiles": [
-    "Endocrine System.md",
     "Anterior Pituitary.md",
+    "Endocrine System.md",
+    "Posterior Pituitary.md",
+    "Pituitary Gland.md",
     "Renin-Angiotenisin-Aldosterone System.md",
     "Nervous System.md",
     "Portal System.md",
     "Hypothalamus.md",
-    "Posterior Pituitary.md",
-    "Pituitary Gland.md",
     "2025-11-03.md",
     "HPA Axis.md",
     "Low Threshold Depolarization.md",
