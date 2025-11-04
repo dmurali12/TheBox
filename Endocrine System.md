@@ -41,6 +41,22 @@ The glands listed above and their hormones act together to maintain ***homeostas
 2. Pituitary gland releases endocrine signal
 3. Signal travels to and acts on target tissue
 
+```mermaid
+graph TD
+H[Hypothalamus]
+AP[Anterior Pituitary]
+PP[Posterior Pituitary]
+T1[Target Tissue]
+T2[Target Tissue]
+
+H -->|Depolarization| PP
+H -->|Hormone| AP
+
+AP --> |Hormone|T1
+PP --> |Hormone|T2
+```
+
+
 ## [[Pituitary Gland]]
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
