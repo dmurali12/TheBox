@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPA Axis.md",
+                "file": "Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HPA Axis"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HPA Axis.md",
+                "file": "Endocrine System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HPA Axis"
+              "title": "Outline of Endocrine System"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "HPA Axis.md"
+                "file": "Endocrine System.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -207,6 +207,7 @@
   },
   "active": "1b83e2448a27bf8d",
   "lastOpenFiles": [
+    "HPA Axis.md",
     "Low Threshold Depolarization.md",
     "Menstrual Cycle.md",
     "Untitled.canvas",
@@ -231,7 +232,6 @@
     "Untitled.base",
     "Peptide Hormones.md",
     "Nervous System Organization.md",
-    "HPA Axis.md",
     "Articles.base",
     "Types of Hormones.md",
     "Steroid Hormones.md",
