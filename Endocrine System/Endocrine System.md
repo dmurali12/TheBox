@@ -7,7 +7,7 @@
 # Hormones
 - Molecules produced by the endocrine glands
 	- [[Hypothalamus]]
-	- Pituitary gland
+	- [[Pituitary gland]]
 	- Adrenal glands
 	- Gonads
 	- Thyroid gland
@@ -64,6 +64,8 @@ The pituitary gland has two lobes: the ***anterior** pituitary* and the ***poste
 ### [[Anterior Pituitary]]
 The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue that can both synthesize and secrete **tropic** [[Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
+
+
 
 #### Axes Involving Anterior Pituitary
 
