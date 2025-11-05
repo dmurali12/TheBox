@@ -11,3 +11,4 @@ AP --> |LH in female reproduction| O
 AP --> |LH in male reproduction| L
 ```
 
+1. GnRH expressing neurons in the 
