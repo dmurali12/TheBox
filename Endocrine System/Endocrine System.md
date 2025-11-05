@@ -73,10 +73,12 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 - [[HPA Axis]]
 - [[Thyroid Axis]]
 
-| Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect |
-| -------------------- | ---------- | ---------------------- | ------ |
-| GnRH                 | FSH        | Ovaries, Sertoli cells |        |
-|                      | LH         |                        |        |
+| Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect          |
+| -------------------- | ---------- | ---------------------- | --------------- |
+| GnRH                 | FSH        | Ovaries, Sertoli cells |                 |
+|                      | LH         |                        |                 |
+| CRF                  | ACTH       | Adrenal cortex         | glucocorticoids |
+| TRH                  | TSH        |                        |                 |
 
 
 
