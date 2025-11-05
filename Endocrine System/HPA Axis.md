@@ -1,10 +1,6 @@
 #InProgress 
 
 
-```mermaid
-graph TD
-
-```
 
 - [[Hypothalamus]], [[Anterior Pituitary|anterior pituitary]], [[Adrenal Cortex|adrenal cortex]]
 - Hormones involved: 

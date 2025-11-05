@@ -7,7 +7,7 @@ L[Leydig Cells]
 
 H--> |GnRH| AP
 AP -->|FSH| O
-AP --> |LH| O
-AP --> |LH| L
+AP --> |LH in female reproduction| O
+AP --> |LH in male reproduction| L
 ```
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPA Axis.md",
+                "file": "Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HPA Axis"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -219,23 +219,30 @@
   },
   "active": "514357e47c43d26d",
   "lastOpenFiles": [
-    "Endocrine System.md",
-    "Reproductive Axis.md",
+    "Endocrine System/Anterior Pituitary.md",
+    "Endocrine System/Amino Acid-Derived Hormones.md",
+    "Endocrine System/Adrenal Cortex.md",
+    "stimulating.md",
+    "Neuron Structure.md",
+    "Nervous System Organization.md",
+    "Nervous System.md",
+    "Endocrine System/Endocrine System.md",
+    "Endocrine System",
+    "Endocrine System/Glucocorticoids.md",
+    "Endocrine System/Types of Hormones.md",
     "Untitled.canvas",
+    "Endocrine System/HPA Axis.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
+    "Endocrine System/Reproductive Axis.md",
     "Excalidraw/Drawing 2025-11-04 16.07.14.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
-    "Neuron Structure.md",
-    "Posterior Pituitary.md",
-    "Anterior Pituitary.md",
-    "Pituitary Gland.md",
-    "Renin-Angiotenisin-Aldosterone System.md",
-    "Nervous System.md",
+    "Endocrine System/Posterior Pituitary.md",
+    "Endocrine System/Pituitary Gland.md",
+    "Endocrine System/Renin-Angiotenisin-Aldosterone System.md",
     "Portal System.md",
-    "Hypothalamus.md",
+    "Endocrine System/Hypothalamus.md",
     "2025-11-03.md",
-    "HPA Axis.md",
     "Low Threshold Depolarization.md",
     "Menstrual Cycle.md",
     "Personal Access Token.md",
@@ -243,14 +250,9 @@
     "Users/dixshetamuralikrishnan/Documents",
     "Users/dixshetamuralikrishnan",
     "Users",
-    "Adrenal Cortex.md",
     "Action Potentials.md",
-    "Amino Acid-Derived Hormones.md",
-    "Thyroid Axis.md",
-    "stimulating.md",
-    "Tropic.md",
+    "Endocrine System/Thyroid Axis.md",
     "Untitled.base",
-    "Peptide Hormones.md",
     "Articles.base"
   ]
 }

@@ -66,12 +66,17 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
 #### Axes Involving Anterior Pituitary
+
 - [[Reproductive Axis]]
+	- AP hormones: **FSH (Follicle Stimulating Hormone)** and **LH (Lutenizing Hormone)**
 - [[HPA Axis]]
+- [[Thyroid Axis]]
+
+
 
 
 ### [[Posterior Pituitary]]
-The [[posterior pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases the hormones (known as **neurohormones**) from the [[Neuron Structure|axon terminals]]. 
+The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases the hormones (known as **neurohormones**) from the [[Neuron Structure|axon terminals]]. 
 
 
 
