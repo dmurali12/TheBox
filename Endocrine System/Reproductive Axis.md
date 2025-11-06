@@ -17,9 +17,13 @@ AP --> |LH - male| L
 1. GnRH expressing neurons in the [[hypothalamus]] releases [[Gonadotropin Releasing Hormone (GnRH)]]. 
 2. The [[anterior pituitary]], in response, releases [[Follicle Stimulating Hormone]] and [[Lutenizing Hormone]]
 
+- Talk about anti mullerian hormone and mullerian ducts
+- mesonephric ducts
+
 ## Reproductive Axis in Females
 
 The ovarian and uterine cycles in females occur concurrently. We'll first talk about each separately and then put it together. 
+
 ### Ovarian Cycle
 1. **Follicular Phase**: Hypothalamus releases **GnRH**, so AP releases *small* amounts of **FSH** and **LH**
 	- FSH and LH act on the **ovaries** and causes it to release **estrogens**. 
