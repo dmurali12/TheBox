@@ -27,7 +27,9 @@ The ovarian and uterine cycles in females occur concurrently. We'll first talk a
 ### Ovarian Cycle
 1. **Follicular Phase**: Hypothalamus releases **GnRH**, so AP releases *small* amounts of **FSH** and **LH**
 	- FSH and LH act on the **ovaries** and causes it to release **estrogens**. 
-	- Low levels of estrogen ***inhibits*** GnRH production, but high levels 
+		- Low levels of estrogen ***inhibits*** GnRH production, but high levels ***stimulates*** it
+	- Rising estrogen levels cause a *surge* of LH (and FSH to a smaller extent)
+2. **Ovulation** 
 
 GRAPH HERE OF JUST FOLLICULAR PHASE
 
