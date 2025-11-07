@@ -29,11 +29,13 @@ The ovarian and uterine cycles in females occur concurrently. We'll first talk a
 	- FSH and LH act on the **ovaries** and causes it to release **estrogens**. 
 		- Low levels of estrogen ***inhibits*** GnRH production, but high levels ***stimulates*** it
 	- Rising estrogen levels cause a *surge* of LH (and FSH to a smaller extent)
-2. **Ovulation** 
 
 GRAPH HERE OF JUST FOLLICULAR PHASE
 
-2. **Ovulation**: 
+2. **Ovulation**: The LH surge causes the ovarian follicle to rupture and *release* a [[Oogenesis|secondary oocyte]] into the uterine tube
+3. **Luteal Phase**: LH makes the now ruptured follicle become the **corpus luteum**
+	- Corpus luteum secretes lots of **progesterone** and **estrogen**
+	- This in turn 
 
 ```chart
 type: line
