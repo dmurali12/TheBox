@@ -8,6 +8,7 @@ L[Leydig Cells]
 S[Sertoli Cells]
 Te([Testosterone])
 Sp[/Sperm Production/]
+Oo[/Oogenesis/]
 
 H--> |GnRH| AP
 AP -->|FSH - female| O
@@ -16,6 +17,7 @@ AP --> |LH - female| O
 AP --> |LH - male| L
 L --> Te
 S --> Sp
+O --> Oo
 
 ```
 
