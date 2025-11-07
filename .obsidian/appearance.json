@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Terminal",
   "baseFontSizeAction": true,
   "translucency": false,
-  "accentColor": "#b75c65",
-  "theme": "system"
+  "accentColor": "#a061ff",
+  "theme": "obsidian"
 }
