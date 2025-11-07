@@ -1,16 +1,18 @@
 #NotStarted 
 # Overview
  ```mermaid
- grpah TD
- H[Hypothalamus]
-AP[Anterior Pituitary]
-O[Ovaries]
-L[Leydig Cells]
-S[Sertoli Cells]
+		graph TD
+		
+			H[Hypothalamus]
+			AP[Anterior Pituitary]
+			T[Thyroid]
+			L[Leydig Cells]
+			S[Sertoli Cells]
 
-H--> |GnRH| AP
-AP -->|FSH - female| O
-AP --> |FSH- male| S
-AP --> |LH - female| O
-AP --> |LH - male| L
+			H--> |TRH| AP
+			AP -->|TSH| T
+			T -- |T4|
+			T -- |T3|
+			T4 --> |T3|
  ```
+ 
