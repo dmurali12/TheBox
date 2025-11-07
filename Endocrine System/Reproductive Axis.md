@@ -1,3 +1,4 @@
+#InProgress 
 ```mermaid
 graph TD
 H[Hypothalamus]
@@ -34,8 +35,9 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 
 2. **Ovulation**: The LH surge causes the ovarian follicle to rupture and *release* a [[Oogenesis|secondary oocyte]] into the uterine tube
 3. **Luteal Phase**: LH makes the now ruptured follicle become the **corpus luteum**
-	- Corpus luteum secretes lots of **progesterone** and **estrogen**
-	- This in turn 
+	- Corpus luteum secretes lots of **progesterone** (and some estrogen)
+	- The high levels of progesterone *suppress GnRH production*
+	- 
 
 ```chart
 type: line
