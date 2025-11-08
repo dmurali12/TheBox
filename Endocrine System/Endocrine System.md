@@ -20,8 +20,18 @@ O[Ovaries]
 L[Leydig Cells]
 S[Sertoli Cells]
 LIV[Liver]
-M[Breast]
+M[Mammary Glands]
 AC[Adrenal Cortex]
+
+%% ==== AP HORMONES ====
+FSH([FSH])
+LH([LH])
+ACTH([ACTH])
+TSH([TSH])
+Pr([Prolactin])
+En(Endorphins)]
+GH[(GH)]
+
 
 %% ===== PERIPHERAL HORMONES =====
 T3((T₃))
@@ -35,6 +45,10 @@ IGF((IGF-1))
 PRL((Prolactin))
 OX((Oxytocin))
 ADH((ADH))
+GC((Glucocorticoids))
+En((Endorphins))
+GH((Growth Hormones))
+Som((Somatostatin))
 
 
 %% ==== PROCESSES ====
@@ -47,9 +61,9 @@ Ov([Ovulation])
 %% ==== HPG Axis ====
 H -->|GnRH|AP
 
-AP --> |FSH - male|S
+AP -->FSH-->S
 S -->Sp
-AP --> |LH - male|L
+AP -->LH-->L
 L -->TST
 
 AP --> |FSH - female|O
@@ -58,8 +72,29 @@ O --> E
 O --> P
 
 %% ==== HPA Axis ====
-H --|CRF|AP
+H -->|CRF|AP
 AP -->|ACTH|AC
+AC --> GC
+
+AP -->En
+GC -.-xEn
+
+%% ==== HPT Axis ====
+H --> |TRH| AP
+AP --> |TSH| T
+T --> T3
+T --> T4
+T4 --> T3
+
+%% ==== Prolactin ====
+H -->|PIF|AP
+AP -->|Prolactin| M
+
+%% ==== Growth Hormone ====
+H -->|GHRH|AP
+AP -->GH
+
+H -->Som-.-x GH
 
 ```
 
