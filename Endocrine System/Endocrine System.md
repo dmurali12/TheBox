@@ -13,59 +13,54 @@ H[Hypothalamus]
 AP[Anterior Pituitary]
 PP[Posterior Pituitary]
 
+%% ===== TARGET GLANDS =====
+T[Thyroid Gland]
+A[Adrenal Cortex]
+O[Ovaries]
+L[Leydig Cells]
+S[Sertoli Cells]
+LIV[Liver]
+M[Breast]
+AC[Adrenal Cortex]
 
-```
-
-# Hormones
-- Molecules produced by the endocrine glands
-	- [[Hypothalamus]]
-	- [[Pituitary gland]]
-	- Adrenal glands
-	- Gonads
-	- Thyroid gland
-	- Parathyroid gland
-- Importantly, **hormones are released into the bloodstream**
-
-Hormones are known as either **tropic** or **direct** depending on what they act on.
-- **Tropic** hormones act on *other glands*, regulating the release of hormones from that gland
-- **Direct** hormones act on the *target tissue*
-
-## Mechanisms of Action
-
-- **Autocrine** signaling: the signal acts on the cell that *released* the signal
-	- "Auto" = self
-- **Paracrine** signaling: signal diffuses through the **interstitial fluid** to act on nearby cell
-- **Endocrine** signaling is when hormones *travel **through** the bloodstream*
-
-### Steroid Hormones
-![[Steroid Hormones]]
-
-### Peptide Hormones
-![[Peptide Hormones]]
-
-### Amino Acid Derived Hormones
-![[Amino Acid-Derived Hormones]]
+%% ===== PERIPHERAL HORMONES =====
+T3((T₃))
+T4((T₄))
+CORT((Cortisol))
+E((Estrogen))
+P((Progesterone))
+TST((Testosterone))
+GH((GH))
+IGF((IGF-1))
+PRL((Prolactin))
+OX((Oxytocin))
+ADH((ADH))
 
 
-# Hormone Systems
-The glands listed above and their hormones act together to maintain ***homeostasis*** within the body. Generally, many of these axes follow this pattern:
-1. [[Hypothalamus]] sends signal (could be electrical or endocrine) in response to internal or external factors
-2. Pituitary gland releases endocrine signal
-3. Signal travels to and acts on target tissue
+%% ==== PROCESSES ====
+OO([Oogenesis])
+Sp([Spermatogenesis])
 
-```mermaid
-graph TD
-H[Hypothalamus]
-AP[Anterior Pituitary]
-PP[Posterior Pituitary]
-T1[Target Tissue]
-T2[Target Tissue]
+Ov([Ovulation])
 
-H -->|Depolarization| PP
-H -->|Hormone| AP
 
-AP --> |Hormone|T1
-PP --> |Hormone|T2
+%% ==== HPG Axis ====
+H -->|GnRH|AP
+
+AP --> |FSH - male|S
+S -->Sp
+AP --> |LH - male|L
+L -->TST
+
+AP --> |FSH - female|O
+AP --> |LH - female|Ov
+O --> E
+O --> P
+
+%% ==== HPA Axis ====
+H --|CRF|AP
+AP -->|ACTH|AC
+
 ```
 
 
