@@ -126,7 +126,9 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 ### [[Posterior Pituitary]]
 The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases the hormones (known as **neurohormones**) from the [[Neuron Structure|axon terminals]]. 
 
-
+## Adrenal Cortex
+- medulla: catecholamines
+- 
 
 
 

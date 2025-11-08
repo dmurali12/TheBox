@@ -46,7 +46,18 @@ digraph Endocrine {
 ```
 
 ```dot
+digraph Endocrine {
+  rankdir=TD;
+  node [shape=box, style=rounded, fontsize=11];
 
+  H  [label="Hypothalamus"];
+  AP [label="Ant. Pituitary"];
+  T  [label="Thyroid"];
+  A  [label="Adrenal Cortex"];
+  O  [label="Ovaries"];
+  L  [label="Leydig"];
+  S  [label="Sertoli"];
+  }
 ```
 
 ```mermaid

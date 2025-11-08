@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Endocrine System"
             }
-          },
-          {
-            "id": "04009563377c6dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endocrine Graph.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Endocrine Graph"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,18 +228,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04009563377c6dac",
+  "active": "8b09ab491957006a",
   "lastOpenFiles": [
+    "Endocrine System/HPA Axis.md",
+    "Endocrine System/Endocrine System.md",
+    "Endocrine System/Reproductive Axis.md",
+    "Endocrine System/Anterior Pituitary.md",
+    "Endocrine System/Hypothalamus.md",
+    "Endocrine System/Pituitary Gland.md",
+    "Neuron Structure.md",
+    "Portal System.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
     "Endocrine Graph.md",
-    "Endocrine System/Endocrine System.md",
+    "Endocrine System/Renin-Angiotenisin-Aldosterone System.md",
     "Untitled",
     "Adenylate Cyclase Cascade.md",
-    "Endocrine System/Reproductive Axis.md",
     "Fertilization.md",
     "Endocrine System/Peptide Hormones.md",
-    "Endocrine System/Hypothalamus.md",
-    "Endocrine System/HPA Axis.md",
     "Excalidraw/Drawing 2025-11-06 21.57.43.excalidraw.md",
     "Catecholamines.md",
     "Endocrine System/Amino Acid-Derived Hormones.md",
@@ -272,16 +252,11 @@
     "Endocrine System/Glucocorticoids.md",
     "Endocrine System/Hormones.md",
     "Nervous System Organization.md",
-    "Endocrine System/Anterior Pituitary.md",
-    "Endocrine System/Pituitary Gland.md",
     "Endocrine System/Types of Hormones.md",
     "Endocrine System/Thyroid Axis.md",
     "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Posterior Pituitary.md",
     "Depolarization.md",
-    "Polarity.md",
-    "Cholesterol synthesis.md",
-    "Nervous System.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
