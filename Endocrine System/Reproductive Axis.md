@@ -32,8 +32,14 @@ O --> P
 ## Reproductive Axis in Females
 
 The ovarian and uterine cycles in females occur concurrently. We'll first talk about each separately and then put it together. 
-
 ### Ovarian Cycle
+
+Goals: 
+- Get ovum out of the ovary so it can be [[Fertilization|fertilized]]
+- Prepare endometrial lining for implantation
+	- Essentially ==thicken the endometrium==
+	- ***E*strogen** helps *E*stablish the endometrial lining, and **progesterone** maintains it
+
 1. **Follicular Phase**: Hypothalamus releases **GnRH**, so AP releases *small* amounts of **FSH** and **LH**
 	- FSH and LH act on the **ovaries** and causes it to release **estrogens**. 
 		- Low levels of estrogen ***inhibits*** GnRH production, but high levels ***stimulates*** it
@@ -45,7 +51,11 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 3. **Luteal Phase**: LH makes the now ruptured follicle become the **corpus luteum**
 	- Corpus luteum secretes lots of **progesterone** (and some estrogen)
 	- The high levels of progesterone *suppress GnRH production*
-	- 
+		- Prevents maturation of multiple follicles
+#### If fertilization occurs:
+4. Corpus luteum continues to produce progestrogen and estrogens
+#### If no fertilization
+4. 
 
 ```chart
 type: line

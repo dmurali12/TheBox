@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Endocrine System.md",
+                "file": "Endocrine System/Reproductive Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Endocrine System"
+              "title": "Reproductive Axis"
             }
           }
         ],
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -243,13 +244,14 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Fertilization.md",
+    "Endocrine System/Reproductive Axis.md",
+    "Endocrine System/Endocrine System.md",
     "Endocrine System/Peptide Hormones.md",
     "Endocrine System/Hypothalamus.md",
     "Endocrine System/HPA Axis.md",
-    "Endocrine System/Reproductive Axis.md",
     "Excalidraw/Drawing 2025-11-04 16.07.39.excalidraw.md",
     "Excalidraw/Drawing 2025-11-06 21.57.43.excalidraw.md",
-    "Endocrine System/Endocrine System.md",
     "Adenylate Cyclase Cascade.md",
     "Catecholamines.md",
     "Endocrine System/Amino Acid-Derived Hormones.md",
@@ -268,7 +270,6 @@
     "Cholesterol synthesis.md",
     "Nervous System.md",
     "Gonadotropin Releasing Hormone (GnRH).md",
-    "Lutenizing Hormone.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
