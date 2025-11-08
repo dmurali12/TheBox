@@ -29,8 +29,8 @@ LH([LH])
 ACTH([ACTH])
 TSH([TSH])
 Pr([Prolactin])
-En(Endorphins)]
-GH[(GH)]
+En([Endorphins])
+GH([GH])
 
 
 %% ===== PERIPHERAL HORMONES =====
@@ -52,8 +52,8 @@ Som((Somatostatin))
 
 
 %% ==== PROCESSES ====
-OO([Oogenesis])
-Sp([Spermatogenesis])
+OO[/Oogenesis/]
+Sp[/Spermatogenesis/]
 
 Ov([Ovulation])
 
@@ -61,13 +61,13 @@ Ov([Ovulation])
 %% ==== HPG Axis ====
 H -->|GnRH|AP
 
-AP -->FSH-->S
+AP-->FSH-->S
 S -->Sp
 AP -->LH-->L
 L -->TST
 
-AP --> |FSH - female|O
-AP --> |LH - female|Ov
+AP -->FSH-->O
+AP -->LH-->Ov
 O --> E
 O --> P
 
