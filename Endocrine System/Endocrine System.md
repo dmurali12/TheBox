@@ -4,6 +4,18 @@
 - Relies on hormonal communication
 - Influenced by and influences the [[Nervous System|nervous system]]
 
+```mermaid
+graph TD
+%% ===== HYPOTHALAMUS =====
+H[Hypothalamus]
+
+%% ===== PITUITARY =====
+AP[Anterior Pituitary]
+PP[Posterior Pituitary]
+
+
+```
+
 # Hormones
 - Molecules produced by the endocrine glands
 	- [[Hypothalamus]]

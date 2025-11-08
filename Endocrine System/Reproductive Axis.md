@@ -55,7 +55,7 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 #### If fertilization occurs:
 4. Corpus luteum continues to produce progestrogen and estrogens
 #### If no fertilization
-4. 
+4. The cycle resets BUT 
 
 ```chart
 type: line
