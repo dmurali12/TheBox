@@ -58,6 +58,10 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 
 The cycle resets, but in order to do that, the endometrial lining must shed. This is called the **menstrual cycle**.  
 
+1. **Menstrual phase**: uterus sheds endometrial lining
+	- Towards the end of this phase is when FSH and LH are released (first step of [[Reproductive Axis#Ovarian Cycle| ovarian cycle]])
+2. **Proliferative phase**: the endometrial lining doubles in thickness and is vascularized to prep for embryo implantation
+
 ```chart
 type: line
 labels: [0,5,10,14,20,28]
