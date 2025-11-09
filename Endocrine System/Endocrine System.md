@@ -144,6 +144,7 @@ digraph Endocrine {
 }
 ```
 
+
 ## [[Pituitary Gland]]
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 

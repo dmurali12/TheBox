@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Reproductive Axis.md",
+                "file": "Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reproductive Axis"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -230,9 +230,9 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Endocrine System/Reproductive Axis.md",
     "Endocrine System/Endocrine System.md",
     "Endocrine System/HPA Axis.md",
-    "Endocrine System/Reproductive Axis.md",
     "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Hypothalamus.md",
     "Endocrine System/Pituitary Gland.md",
