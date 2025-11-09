@@ -100,47 +100,95 @@ H -->Som-.-x GH
 
 ```dot
 digraph Endocrine {
-  rankdir=LR;
-  node [shape=box, style=rounded, fontsize=11];
+  rankdir=TD;           // left→right flow (feels like Mermaid graph LR)
+  splines=true;         // smooth-ish edges
+  nodesep=0.5;
+  ranksep=0.7;
+  bgcolor="transparent"
 
+  fontname="Helvetica"; // or "Inter", "SF Pro" etc if your system has it
+  node [fontname="Helvetica"];
+  edge [fontname="Helvetica"];
+
+  node [
+    shape=box,
+    style="rounded,filled",
+    fillcolor="#f8fafc",
+    color="#cbd5e1",
+    penwidth=1.4
+  ];
+
+  edge [
+    color="#94a3b8",
+    arrowsize=0.8,
+    penwidth=1.4
+  ];
+
+  /* ======= Default node look ======= */
+  node [style=rounded, fontsize=11];
+
+  /* --- Organs (rectangles) --- */
+  node [shape=box, fillcolor="#e3f2fd", style="filled,rounded", color="#1565c0"];
   H  [label="Hypothalamus"];
-  AP [label="Ant. Pituitary"];
+  AP [label="Anterior Pituitary"];
   T  [label="Thyroid"];
   A  [label="Adrenal Cortex"];
   O  [label="Ovaries"];
-  L  [label="Leydig"];
-  S  [label="Sertoli"];
+  L  [label="Leydig Cells"];
+  LIV[label="Liver"];
+  M  [label="Mammary Glands"];
 
-  subgraph cluster_HPT {
-    label="HPT Axis";
-    H -> AP [label="TRH"];
-    AP -> T [label="TSH"];
-    T -> T4 [label="T4"];
-    T -> T3 [label="T3"];
-    T4 -> T3 [label="conv."];
-    T3 -> H  [label="–", style=dashed, arrowhead=tee];
-    T3 -> AP [label="–", style=dashed, arrowhead=tee];
-  }
+  /* --- Hormones (ellipses) --- */
+  node [shape=ellipse, fillcolor="#fff3cd", style="filled", color="#f9a825"];
+  T3  [label="T₃"];
+  T4  [label="T₄"];
+  CORT[label="Cortisol"];
+  E   [label="Estrogen"];
+  P   [label="Progesterone"];
+  TST [label="Testosterone"];
+  IGF [label="IGF-1"];
+  PRL [label="Prolactin"];
+  GH  [label="GH"];
 
-  subgraph cluster_HPA {
-    label="HPA Axis";
-    H -> AP [label="CRH"];
-    AP -> A [label="ACTH"];
-    A  -> CORT [label="Cortisol"];
-    CORT -> H  [label="–", style=dashed, arrowhead=tee];
-    CORT -> AP [label="–", style=dashed, arrowhead=tee];
-  }
+  /* ====== HPT Axis (blue) ====== */
+  edge [color="#1565c0", penwidth=2];
+  H  -> AP [label="TRH"];
+  AP -> T  [label="TSH"];
+  T  -> T4 [label="T₄"];
+  T  -> T3 [label="T₃"];
+  T4 -> T3 [label="Conversion"];
+  T3 -> H  [label="– feedback", style=dashed, arrowhead=tee];
 
-  subgraph cluster_HPG {
-    label="HPG Axis";
-    H -> AP  [label="GnRH"];
-    AP -> O  [label="FSH/LH"];
-    AP -> L  [label="LH"];
-    O  -> E  [label="Estrogen"];
-    L  -> TST[label="Testosterone"];
-    E  -> H  [label="–", style=dashed, arrowhead=tee];
-    TST-> H  [label="–", style=dashed, arrowhead=tee];
-  }
+  /* ====== HPA Axis (orange) ====== */
+  edge [color="#ef6c00", penwidth=2];
+  H  -> AP [label="CRH"];
+  AP -> A  [label="ACTH"];
+  A  -> CORT;
+  CORT -> H  [label="– feedback", style=dashed, arrowhead=tee];
+  CORT -> AP [label="– feedback", style=dashed, arrowhead=tee];
+
+  /* ====== HPG Axis (pink) ====== */
+  edge [color="#c2185b", penwidth=2];
+  H  -> AP [label="GnRH"];
+  AP -> O  [label="FSH/LH"];
+  AP -> L  [label="LH"];
+  O  -> E;
+  O  -> P;
+  L  -> TST;
+  E  -> H  [label="– feedback", style=dashed, arrowhead=tee];
+  TST-> H  [label="– feedback", style=dashed, arrowhead=tee];
+
+  /* ====== GH Axis (green) ====== */
+  edge [color="#2e7d32", penwidth=2];
+  H  -> AP [label="GHRH"];
+  AP -> LIV [label="GH"];
+  LIV-> IGF;
+  IGF-> H [label="– feedback", style=dashed, arrowhead=tee];
+
+  /* ====== Prolactin Axis (purple) ====== */
+  edge [color="#6a1b9a", penwidth=2];
+  H  -> AP [label="PIF (DA)"];
+  AP -> M  [label="Prolactin"];
 }
 ```
 
