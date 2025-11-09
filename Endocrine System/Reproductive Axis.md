@@ -53,9 +53,10 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 	- The high levels of progesterone *suppress GnRH production*
 		- Prevents maturation of multiple follicles
 #### If fertilization occurs:
-4. Corpus luteum continues to produce progestrogen and estrogens
+4. Corpus luteum continues to produce progesterone and estrogens
 #### If no fertilization
-4. The cycle resets BUT 
+
+The cycle resets, but in order to do that, the endometrial lining must shed. This is called the **menstrual cycle**.  
 
 ```chart
 type: line
