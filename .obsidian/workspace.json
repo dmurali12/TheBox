@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kroki playground.md",
+                "file": "Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kroki playground"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -230,6 +230,7 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Kroki playground.md",
     "Endocrine System/Reproductive Axis.md",
     "Endocrine System/Endocrine System.md",
     "Endocrine System/HPA Axis.md",
@@ -256,7 +257,6 @@
     "Endocrine System/Thyroid Axis.md",
     "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Posterior Pituitary.md",
-    "Depolarization.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
