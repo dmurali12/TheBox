@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Endocrine System.md",
+                "file": "Endocrine System/Reproductive Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Endocrine System"
+              "title": "Reproductive Axis"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -230,9 +231,9 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Endocrine System/Endocrine System.md",
     "Kroki playground.md",
     "Endocrine System/Reproductive Axis.md",
-    "Endocrine System/Endocrine System.md",
     "Endocrine System/HPA Axis.md",
     "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Hypothalamus.md",
