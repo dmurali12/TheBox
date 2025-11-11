@@ -1,18 +1,6 @@
 #NotStarted 
 # Overview
- ```mermaid
-		graph TD
-		
-			H[Hypothalamus]
-			AP[Anterior Pituitary]
-			T[Thyroid]
-			L[Leydig Cells]
-			S[Sertoli Cells]
+- Responsible for regulating ***basal metabolic rate***
 
-			H--> |TRH| AP
-			AP -->|TSH| T
-			T -- |T4|
-			T -- |T3|
-			T4 --> |T3|
- ```
- 
+TRH from hypothalamus --> TSH from ant pit --> Thyroid releases both T3 and T4 (but mostly T4)
+- other organs conv T4 to T3 by deiodination
