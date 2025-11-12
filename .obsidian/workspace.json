@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Thyroid Axis.md",
+                "file": "Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thyroid Axis"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -230,12 +230,14 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Endocrine System.md",
+    "Endocrine System/Steroid Hormones.md",
+    "Endocrine System/Thyroid Axis.md",
     "Endocrine System/HPA Axis.md",
     "Endocrine System/Hypothalamus.md",
     "Endocrine System/Reproductive Axis.md",
     "Kroki playground.md",
-    "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Pituitary Gland.md",
     "Neuron Structure.md",
     "Portal System.md",
@@ -254,8 +256,6 @@
     "Endocrine System/Hormones.md",
     "Nervous System Organization.md",
     "Endocrine System/Types of Hormones.md",
-    "Endocrine System/Thyroid Axis.md",
-    "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Posterior Pituitary.md",
     "Endocrine System",
     "Untitled.canvas",

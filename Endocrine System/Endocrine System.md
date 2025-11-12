@@ -197,11 +197,13 @@ digraph Endocrine {
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
 
-### [[Anterior Pituitary]]
+### [[Anterior Pituit ary]]
 The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue that can both synthesize and secrete [[Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
 #### Axes Involving Anterior Pituitary
+
+##### Tropic Hormones
 
 - [[Reproductive Axis]]
 	- AP hormones: **FSH (Follicle Stimulating Hormone)** and **LH (Lutenizing Hormone)**
