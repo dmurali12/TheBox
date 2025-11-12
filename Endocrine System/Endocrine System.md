@@ -210,6 +210,10 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 - [[HPA Axis]]
 - [[Thyroid Axis]]
 
+##### Direct Hormones
+- [[Prolactin]]
+- 
+
 | Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect          |
 | -------------------- | ---------- | ---------------------- | --------------- |
 | GnRH                 | FSH        | Ovaries, Sertoli cells |                 |
