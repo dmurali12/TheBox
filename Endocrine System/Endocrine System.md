@@ -197,7 +197,7 @@ digraph Endocrine {
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
 
-### [[Anterior Pituit ary]]
+### [[Anterior Pituitary]]
 The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue that can both synthesize and secrete [[Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
@@ -212,7 +212,8 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 
 ##### Direct Hormones
 - [[Prolactin]]
-- 
+- [[Endorphins]]
+- [[Growth Hormone]]
 
 | Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect          |
 | -------------------- | ---------- | ---------------------- | --------------- |
@@ -221,11 +222,11 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 | CRF                  | ACTH       | Adrenal cortex         | glucocorticoids |
 | TRH                  | TSH        |                        |                 |
 
-
-
 ### [[Posterior Pituitary]]
 The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produces*. The hypothalamus sends axons down into the posterior pituitary. When depolarized, the posterior pituitary releases the hormones (known as **neurohormones**) from the [[Neuron Structure|axon terminals]]. 
 
+[[ADH]]
+[[Oxytocin]]
 ## Adrenal Cortex
 - medulla: catecholamines
 - 
