@@ -227,9 +227,13 @@ The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produc
 
 [[ADH]]
 [[Oxytocin]]
-## Adrenal Cortex
-- medulla: catecholamines
-- 
+
+## Target Tissues
+
+### [[Adrenal Gland]]
+
+[[Renin-Angiotenisin-Aldosterone System]]
+[[Catecholamines]]
 
 
 

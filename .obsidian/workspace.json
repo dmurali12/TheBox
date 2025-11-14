@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Types of Hormones.md",
+                "file": "Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Hormones"
+              "title": "Endocrine System"
             }
           }
         ]
@@ -230,6 +230,7 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
+    "Endocrine System/Types of Hormones.md",
     "Endocrine System/Thyroid Axis.md",
     "Endocrine System/HPA Axis.md",
     "Endocrine System/Hormones.md",
@@ -255,7 +256,6 @@
     "Endocrine System/Amino Acid-Derived Hormones.md",
     "Endocrine System/Adrenal Cortex.md",
     "Nervous System Organization.md",
-    "Endocrine System/Types of Hormones.md",
     "Endocrine System/Posterior Pituitary.md",
     "Endocrine System",
     "Untitled.canvas",
