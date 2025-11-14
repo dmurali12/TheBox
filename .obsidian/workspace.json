@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Endocrine System.md",
+                "file": "Endocrine System/Types of Hormones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Endocrine System"
+              "title": "Types of Hormones"
             }
           }
         ]
@@ -230,11 +230,13 @@
   },
   "active": "df36685920788b8c",
   "lastOpenFiles": [
-    "Endocrine System/Anterior Pituitary.md",
-    "Endocrine System/Endocrine System.md",
-    "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Thyroid Axis.md",
     "Endocrine System/HPA Axis.md",
+    "Endocrine System/Hormones.md",
+    "Endocrine System/Glucocorticoids.md",
+    "Endocrine System/Endocrine System.md",
+    "Endocrine System/Anterior Pituitary.md",
+    "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Hypothalamus.md",
     "Endocrine System/Reproductive Axis.md",
     "Kroki playground.md",
@@ -252,8 +254,6 @@
     "Catecholamines.md",
     "Endocrine System/Amino Acid-Derived Hormones.md",
     "Endocrine System/Adrenal Cortex.md",
-    "Endocrine System/Glucocorticoids.md",
-    "Endocrine System/Hormones.md",
     "Nervous System Organization.md",
     "Endocrine System/Types of Hormones.md",
     "Endocrine System/Posterior Pituitary.md",
