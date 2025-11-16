@@ -35,17 +35,52 @@
             "id": "6131940cec409292",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "index.base",
-                "viewName": "Table"
+                "file": "Personal Access Token.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
+              "icon": "lucide-file",
+              "title": "Personal Access Token"
+            }
+          },
+          {
+            "id": "daa74e571d90088c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
               "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,10 +276,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b089131bb5272cd",
+  "active": "daa74e571d90088c",
   "lastOpenFiles": [
-    "Index.md",
+    "Articles.base",
+    "index.md",
+    "Personal Access Token.md",
     "index.base",
+    "Index.md",
     "Endocrine System/Endocrine System.md",
     "CNAME",
     "Endocrine System/Types of Hormones.md",
@@ -269,15 +307,12 @@
     "Endocrine System/Peptide Hormones.md",
     "Excalidraw/Drawing 2025-11-06 21.57.43.excalidraw.md",
     "Catecholamines.md",
-    "Endocrine System/Amino Acid-Derived Hormones.md",
-    "Endocrine System/Adrenal Cortex.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
     "Users/dixshetamuralikrishnan/Documents/TheBox",
     "Users/dixshetamuralikrishnan/Documents",
     "Users/dixshetamuralikrishnan",
-    "Users",
-    "Articles.base"
+    "Users"
   ]
 }
