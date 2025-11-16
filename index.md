@@ -1,1 +1,2 @@
-[[Endocrine System]]
+[Endocrine System](Endocrine System/EndocrineSystem.md)
+
