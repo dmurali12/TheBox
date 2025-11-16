@@ -1,1 +1,1 @@
-[Endocrine System]('Endocrine System.md')
+[Endocrine System]('Endocrine System/Endocrine System.md')
