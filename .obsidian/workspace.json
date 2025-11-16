@@ -59,9 +59,19 @@
             "id": "daa74e571d90088c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "918eab2c6e2e9dc8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "'Endocrine.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +86,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "'Endocrine"
+              "title": "index"
+            }
+          },
+          {
+            "id": "7ba1418d9768ff61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,12 +310,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df36685920788b8c",
+  "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "Endocrine System/EndocrineSystem.md",
-    "Endocrine.md",
+    "conflict-files-obsidian-git.md",
     "index.md",
+    "Endocrine System/EndocrineSystem.md",
     "'Endocrine.md",
+    "Endocrine.md",
     "\"Endocrine.md",
     "Articles.base",
     "Personal Access Token.md",
@@ -306,7 +342,6 @@
     "Untitled",
     "Adenylate Cyclase Cascade.md",
     "Fertilization.md",
-    "Endocrine System/Peptide Hormones.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
