@@ -30,8 +30,22 @@
               "icon": "lucide-file",
               "title": "Endocrine System"
             }
+          },
+          {
+            "id": "6131940cec409292",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "index.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,12 +218,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +241,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df36685920788b8c",
+  "active": "1b089131bb5272cd",
   "lastOpenFiles": [
+    "Index.md",
+    "index.base",
+    "Endocrine System/Endocrine System.md",
     "CNAME",
     "Endocrine System/Types of Hormones.md",
     "Endocrine System/Thyroid Axis.md",
     "Endocrine System/HPA Axis.md",
     "Endocrine System/Hormones.md",
     "Endocrine System/Glucocorticoids.md",
-    "Endocrine System/Endocrine System.md",
     "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Hypothalamus.md",
@@ -256,7 +271,6 @@
     "Catecholamines.md",
     "Endocrine System/Amino Acid-Derived Hormones.md",
     "Endocrine System/Adrenal Cortex.md",
-    "Nervous System Organization.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
@@ -264,7 +278,6 @@
     "Users/dixshetamuralikrishnan/Documents",
     "Users/dixshetamuralikrishnan",
     "Users",
-    "Untitled.base",
     "Articles.base"
   ]
 }
