@@ -1,0 +1,2 @@
+- Promote Na+ reabsorption and K+ secretion in [[Nephron|distal convoluted tubule]]
+- 

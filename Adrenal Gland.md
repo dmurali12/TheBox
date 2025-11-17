@@ -13,7 +13,13 @@
 		- [[Transamination]]
 	- [[HPA Axis]]
 - **Mineralocorticoids**
-	- 
+	- [[Aldosterone]]
+	- [[Endocrine System/Renin-Angiotenisin-Aldosterone System|Renin-Angiotenisin-Aldosterone System]]
+	- Regulate [[Blood Pressure]]
+- **Androgens**
 ## [[Adrenal medulla]]
+- [[Catecholamines]] **epinephrine** and **norepinephribne**
+	- ***NOT dopamine***
+- Controlled by [[ANS]]
 
 - 
