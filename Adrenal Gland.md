@@ -3,7 +3,17 @@
 
 
 ## [[Adrenal Cortex]]
-- Three main classes
+- **Corticosteroids**
+	- [[Endocrine System/Steroid Hormones|Steroid Hormones]]
+	- Acts on liver
+		- [[gluconeogenesis]]
+	- [[lipolysis]]
+	- [[Proteolysis]]
+		- Can create new proteins
+		- [[Transamination]]
+	- [[HPA Axis]]
+- **Mineralocorticoids**
+	- 
 ## [[Adrenal medulla]]
 
 - 
