@@ -2,7 +2,7 @@
 #### Overview
 - Made up of: [[Amino Acids]]
 	- Is [[Polarity|polar]]
-- Large precursor polypeptide is *cleaved* during [[post-translational modifications]]
+- Large precursor polypeptide is *cleaved* during [[Post-Translational Modifications]]
 - Produced in the [[Cell Organization|endoplasmic reticulum]]
 - Activated in the [[Cell Organization|Golgi apparatus]]
 - Effects tend to be **short-lived**
