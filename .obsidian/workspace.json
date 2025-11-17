@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheBox.md",
+                "file": "Endocrine Graph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TheBox"
+              "title": "Endocrine Graph"
             }
           }
         ],
@@ -310,15 +310,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ba1418d9768ff61",
+  "active": "1b089131bb5272cd",
   "lastOpenFiles": [
-    "index.md",
-    "TheBox.md",
-    "conflict-files-obsidian-git.md",
-    "Endocrine System/EndocrineSystem.md",
     "'Endocrine.md",
+    "Adenylate Cyclase Cascade.md",
     "Endocrine.md",
     "\"Endocrine.md",
+    "TheBox.md",
+    "index.md",
+    "conflict-files-obsidian-git.md",
+    "Endocrine System/EndocrineSystem.md",
     "Articles.base",
     "Personal Access Token.md",
     "index.base",
@@ -341,7 +342,6 @@
     "Endocrine Graph.md",
     "Endocrine System/Renin-Angiotenisin-Aldosterone System.md",
     "Untitled",
-    "Adenylate Cyclase Cascade.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
