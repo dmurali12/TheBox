@@ -239,6 +239,21 @@ The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produc
 [[Parathyroid Gland]]
 
 
+Appetite hormones
+[[ghrelin]]
+[[leptin]]
+[[somatostatin]]
+
+[[pineal gland]]
+[[thymus]]
+
+[[anp]]
+
+[[Digestion]]
+[[Gastrin]]
+[[Cholecystekinin]]
+
+
 
 
 

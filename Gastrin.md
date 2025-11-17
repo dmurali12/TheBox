@@ -1,0 +1,1 @@
+[[Stomach|G cells]]

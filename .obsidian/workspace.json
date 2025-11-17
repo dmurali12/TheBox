@@ -66,36 +66,12 @@
             }
           },
           {
-            "id": "918eab2c6e2e9dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "7ba1418d9768ff61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRY gene.md",
+                "file": "Endocrine System/Reproductive Axis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,11 +86,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SRY gene"
+              "title": "Reproductive Axis"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,9 +290,15 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
+    "Endocrine System/EndocrineSystem.md",
+    "Cholecystekinin.md",
+    "Gastrin.md",
+    "anp.md",
+    "thymus.md",
+    "pineal gland.md",
     "Endocrine System/Reproductive Axis.md",
     "SRY gene.md",
-    "Endocrine System/EndocrineSystem.md",
+    "index.md",
     "Parathyroid Gland.md",
     "calcium homeostasis.md",
     "Endocrine System/Adrenal Cortex.md",
@@ -326,7 +308,6 @@
     "Endocrine.md",
     "\"Endocrine.md",
     "TheBox.md",
-    "index.md",
     "conflict-files-obsidian-git.md",
     "Articles.base",
     "Personal Access Token.md",
@@ -338,11 +319,6 @@
     "Endocrine System/HPA Axis.md",
     "Endocrine System/Hormones.md",
     "Endocrine System/Glucocorticoids.md",
-    "Endocrine System/Anterior Pituitary.md",
-    "Endocrine System/Steroid Hormones.md",
-    "Endocrine System/Hypothalamus.md",
-    "Kroki playground.md",
-    "Endocrine System/Pituitary Gland.md",
     "Untitled",
     "Endocrine System",
     "Untitled.canvas",
