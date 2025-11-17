@@ -232,6 +232,9 @@ The [[Posterior Pituitary]] only *stores* hormones that the *hypothalamus produc
 ## Target Tissues
 
 ### [[Adrenal Gland]]
+### [[Renal Hormones]]
+
+### [[pancreatic hormones]]
 
 [[Renin-Angiotenisin-Aldosterone System]]
 [[Catecholamines]]

@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adrenal Gland.md",
+                "file": "pancreatic hormones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adrenal Gland"
+              "title": "pancreatic hormones"
             }
           }
         ],
@@ -290,15 +290,18 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "Aldosterone.md",
+    "Endocrine System/EndocrineSystem.md",
+    "pancreatic hormones.md",
+    "Renal Hormones.md",
+    "calcitriol.md",
+    "Endocrine System/Adrenal Cortex.md",
+    "Endocrine System/Hormones.md",
+    "Endocrine System/HPA Axis.md",
+    "Endocrine System/Peptide Hormones.md",
     "Adrenal Gland.md",
+    "Aldosterone.md",
     "Blood Pressure.md",
     "Proteolysis.md",
-    "Endocrine System/Peptide Hormones.md",
-    "Endocrine System/HPA Axis.md",
-    "Endocrine System/Hormones.md",
-    "Endocrine System/Adrenal Cortex.md",
-    "Endocrine System/EndocrineSystem.md",
     "Endocrine System/Steroid Hormones.md",
     "index.md",
     "Endocrine System/Reproductive Axis.md",
@@ -313,9 +316,6 @@
     "Endocrine Graph.md",
     "'Endocrine.md",
     "Adenylate Cyclase Cascade.md",
-    "Endocrine.md",
-    "\"Endocrine.md",
-    "TheBox.md",
     "Articles.base",
     "index.base",
     "CNAME",
