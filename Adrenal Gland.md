@@ -20,6 +20,6 @@
 ## [[Adrenal medulla]]
 - [[Catecholamines]] **epinephrine** and **norepinephribne**
 	- ***NOT dopamine***
-- Controlled by [[ANS]]
+- Controlled by [[Automatic Nervous System]]
+- Releases when [[sympathetic nervous system]] releases 
 
-- 
