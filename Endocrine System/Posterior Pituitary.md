@@ -3,7 +3,7 @@
 - Does not produce hormones
 - Storage site for hormones produced by [[Hypothalamus|hypothalamus]]
 
-![[EndocrineSystem#Posterior Pituitary]]
+![[Endocrine System/Endocrine System#Posterior Pituitary]]
 - [[ADH]]
 - [[Oxytocin]]
 

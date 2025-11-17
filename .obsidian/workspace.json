@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pancreatic hormones.md",
+                "file": "Endocrine System/Anterior Pituitary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pancreatic hormones"
+              "title": "Anterior Pituitary"
             }
           }
         ],
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -290,8 +289,15 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "Endocrine System/EndocrineSystem.md",
+    "Endocrine System/Pituitary Gland.md",
+    "Endocrine System/Endocrine System.md",
+    "Nervous System.md",
+    "TheBox.md",
+    "Kroki playground.md",
+    "'Endocrine.md",
     "pancreatic hormones.md",
+    "glucagon.md",
+    "Endocrine System/Steroid Hormones.md",
     "Renal Hormones.md",
     "calcitriol.md",
     "Endocrine System/Adrenal Cortex.md",
@@ -302,7 +308,6 @@
     "Aldosterone.md",
     "Blood Pressure.md",
     "Proteolysis.md",
-    "Endocrine System/Steroid Hormones.md",
     "index.md",
     "Endocrine System/Reproductive Axis.md",
     "Cholecystekinin.md",
@@ -310,12 +315,6 @@
     "anp.md",
     "thymus.md",
     "pineal gland.md",
-    "SRY gene.md",
-    "Parathyroid Gland.md",
-    "calcium homeostasis.md",
-    "Endocrine Graph.md",
-    "'Endocrine.md",
-    "Adenylate Cyclase Cascade.md",
     "Articles.base",
     "index.base",
     "CNAME",

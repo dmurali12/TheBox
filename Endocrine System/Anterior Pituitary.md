@@ -1,7 +1,7 @@
 #NotStarted 
 #Ectoderm
 
-![[EndocrineSystem#Anterior Pituitary]]
+![[Endocrine System/Endocrine System#Anterior Pituitary]]
 
 # Hormones
 

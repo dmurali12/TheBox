@@ -1,6 +1,6 @@
 #Ectoderm 
 
-![[EndocrineSystem#Pituitary Gland]]
+![[Endocrine System/Endocrine System#Pituitary Gland]]
 
 
 ![[Anterior Pituitary]]
