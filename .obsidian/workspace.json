@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endocrine System/Reproductive Axis.md",
+                "file": "Adrenal Gland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reproductive Axis"
+              "title": "Adrenal Gland"
             }
           }
         ],
@@ -290,13 +290,15 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
+    "Endocrine System/HPA Axis.md",
+    "Adrenal Gland.md",
     "Endocrine System/EndocrineSystem.md",
+    "Endocrine System/Reproductive Axis.md",
     "Cholecystekinin.md",
     "Gastrin.md",
     "anp.md",
     "thymus.md",
     "pineal gland.md",
-    "Endocrine System/Reproductive Axis.md",
     "SRY gene.md",
     "index.md",
     "Parathyroid Gland.md",
@@ -316,9 +318,7 @@
     "CNAME",
     "Endocrine System/Types of Hormones.md",
     "Endocrine System/Thyroid Axis.md",
-    "Endocrine System/HPA Axis.md",
     "Endocrine System/Hormones.md",
-    "Endocrine System/Glucocorticoids.md",
     "Untitled",
     "Endocrine System",
     "Untitled.canvas",
