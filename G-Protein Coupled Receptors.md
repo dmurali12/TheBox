@@ -1,0 +1,1 @@
+- Associate with heterotrimeric [[G-proteins]]

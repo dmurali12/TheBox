@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cell Organization.md",
+                "file": "G-Protein Coupled Receptors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cell Organization"
+              "title": "G-Protein Coupled Receptors"
             }
           }
         ],
@@ -292,6 +292,7 @@
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
     "Endocrine System/Peptide Hormones.md",
+    "G-Protein Coupled Receptors.md",
     "Cell Organization.md",
     "Post-Translational Modifications.md",
     "Polarity.md",
@@ -316,7 +317,6 @@
     "Endocrine System/HPA Axis.md",
     "Adrenal Gland.md",
     "Aldosterone.md",
-    "Blood Pressure.md",
     "Articles.base",
     "index.base",
     "CNAME",
