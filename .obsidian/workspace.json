@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TheBox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "TheBox"
             }
           }
         ],
@@ -312,8 +312,9 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "index.md",
+    "TheBox.md",
+    "conflict-files-obsidian-git.md",
     "Endocrine System/EndocrineSystem.md",
     "'Endocrine.md",
     "Endocrine.md",
@@ -341,7 +342,6 @@
     "Endocrine System/Renin-Angiotenisin-Aldosterone System.md",
     "Untitled",
     "Adenylate Cyclase Cascade.md",
-    "Fertilization.md",
     "Endocrine System",
     "Untitled.canvas",
     "Excalidraw",
