@@ -3,5 +3,12 @@
 - calcium entry
 
 [[calcium homeostasis]]
+[[osteoclasts and osteoblasts]]
+[[bone matrix]]
+
+[[kidney reabsorption]]
+[[phosphate homeostasis]]
+
+[[calcitriol]]
 
 

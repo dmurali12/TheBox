@@ -207,6 +207,7 @@ The [[Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue t
 
 - [[Reproductive Axis]]
 	- AP hormones: **FSH (Follicle Stimulating Hormone)** and **LH (Lutenizing Hormone)**
+	- 
 - [[HPA Axis]]
 - [[Thyroid Axis]]
 

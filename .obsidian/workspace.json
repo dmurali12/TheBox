@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parathyroid Gland.md",
+                "file": "SRY gene.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Parathyroid Gland"
+              "title": "SRY gene"
             }
           }
         ],
@@ -314,9 +314,11 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "calcium homeostasis.md",
-    "Parathyroid Gland.md",
+    "Endocrine System/Reproductive Axis.md",
+    "SRY gene.md",
     "Endocrine System/EndocrineSystem.md",
+    "Parathyroid Gland.md",
+    "calcium homeostasis.md",
     "Endocrine System/Adrenal Cortex.md",
     "Endocrine Graph.md",
     "'Endocrine.md",
@@ -339,10 +341,8 @@
     "Endocrine System/Anterior Pituitary.md",
     "Endocrine System/Steroid Hormones.md",
     "Endocrine System/Hypothalamus.md",
-    "Endocrine System/Reproductive Axis.md",
     "Kroki playground.md",
     "Endocrine System/Pituitary Gland.md",
-    "Neuron Structure.md",
     "Untitled",
     "Endocrine System",
     "Untitled.canvas",
