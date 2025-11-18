@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-proteins.md",
+                "file": "G-Protein Coupled Receptors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "G-proteins"
+              "title": "G-Protein Coupled Receptors"
             }
           }
         ],
@@ -291,6 +291,7 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
+    "GTPase.md",
     "G-Protein Coupled Receptors.md",
     "G-proteins.md",
     "conformational changes.md",
@@ -316,7 +317,6 @@
     "Endocrine System/Steroid Hormones.md",
     "Renal Hormones.md",
     "calcitriol.md",
-    "Endocrine System/Adrenal Cortex.md",
     "Articles.base",
     "index.base",
     "CNAME",

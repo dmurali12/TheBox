@@ -1,0 +1,2 @@
+- As a rule of thumb, *-ase* is often a suffix for an **enzyme that breaks down**
+- So in this case, this is an enzyme that **[[hydrolysis reactions|hydrolyzes]]** GTP to GDP
