@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G-Protein Coupled Receptors.md",
+                "file": "heterotrimeric.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "G-Protein Coupled Receptors"
+              "title": "heterotrimeric"
             }
           }
         ],
@@ -291,8 +291,9 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "Endocrine System/Peptide Hormones.md",
     "G-Protein Coupled Receptors.md",
+    "heterotrimeric.md",
+    "Endocrine System/Peptide Hormones.md",
     "Cell Organization.md",
     "Post-Translational Modifications.md",
     "Polarity.md",
@@ -316,7 +317,6 @@
     "Endocrine System/Hormones.md",
     "Endocrine System/HPA Axis.md",
     "Adrenal Gland.md",
-    "Aldosterone.md",
     "Articles.base",
     "index.base",
     "CNAME",
