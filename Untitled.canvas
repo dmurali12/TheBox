@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"82644de2d7d5bcfc","type":"file","file":"Endocrine System/Endocrine System.md","x":0,"y":20,"width":280,"height":80},
-		{"id":"2155c610af4ae804","type":"file","file":"Endocrine System/Hypothalamus.md","x":388,"y":-142,"width":400,"height":400},
-		{"id":"e0d358eba53b044b","type":"file","file":"Endocrine System/Pituitary Gland.md","x":205,"y":409,"width":355,"height":71},
+		{"id":"82644de2d7d5bcfc","type":"file","file":"Public/Endocrine System/Endocrine System.md","x":0,"y":20,"width":280,"height":80},
+		{"id":"2155c610af4ae804","type":"file","file":"Public/Endocrine System/Hypothalamus.md","x":388,"y":-142,"width":400,"height":400},
+		{"id":"e0d358eba53b044b","type":"file","file":"Public/Endocrine System/Pituitary Gland.md","x":205,"y":409,"width":355,"height":71},
 		{"id":"8a9c5225b93f47dc","type":"text","text":"Anterior Pituitary","x":1346,"y":31,"width":250,"height":60},
 		{"id":"6d7f35f3c243616e","type":"text","text":"Hypothalamus","x":1346,"y":-160,"width":250,"height":60},
 		{"id":"b79c227fac0d5470","x":1501,"y":393,"width":250,"height":60,"type":"text","text":"Leydig Cells"},

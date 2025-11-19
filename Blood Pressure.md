@@ -1,2 +1,2 @@
 [[anp]]
-[[Endocrine System/Renin-Angiotenisin-Aldosterone System|Renin-Angiotenisin-Aldosterone System]]
+[[Public/Endocrine System/Renin-Angiotenisin-Aldosterone System|Renin-Angiotenisin-Aldosterone System]]

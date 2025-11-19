@@ -1,20 +1,20 @@
-- Mediate the **stress response**, hence the [[Endocrine System/HPA Axis|HPA Axis]]
+- Mediate the **stress response**, hence the [[Public/Endocrine System/HPA Axis|HPA Axis]]
 - Influence [[cardiovascular function]] and [[metabolism]]
 
 
-## [[Adrenal Cortex]]
+## [[Public/Endocrine System/Adrenal Cortex]]
 - **Corticosteroids**
-	- [[Endocrine System/Steroid Hormones|Steroid Hormones]]
+	- [[Public/Endocrine System/Steroid Hormones|Steroid Hormones]]
 	- Acts on liver
 		- [[gluconeogenesis]]
 	- [[lipolysis]]
 	- [[Proteolysis]]
 		- Can create new proteins
 		- [[Transamination]]
-	- [[HPA Axis]]
+	- [[Public/Endocrine System/HPA Axis]]
 - **Mineralocorticoids**
 	- [[Aldosterone]]
-	- [[Endocrine System/Renin-Angiotenisin-Aldosterone System|Renin-Angiotenisin-Aldosterone System]]
+	- [[Public/Endocrine System/Renin-Angiotenisin-Aldosterone System|Renin-Angiotenisin-Aldosterone System]]
 	- Regulate [[Blood Pressure]]
 - **Androgens**
 ## [[Adrenal medulla]]

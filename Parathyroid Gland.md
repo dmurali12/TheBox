@@ -1,4 +1,4 @@
-[[Endocrine System/Thyroid Axis|Thyroid Axis]]
+[[Public/Endocrine System/Thyroid Axis|Thyroid Axis]]
 
 - calcium entry
 

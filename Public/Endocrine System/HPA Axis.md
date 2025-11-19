@@ -2,14 +2,14 @@
 
 
 
-- [[Hypothalamus]], [[Anterior Pituitary|anterior pituitary]], [[Adrenal Cortex|adrenal cortex]]
+- [[Public/Endocrine System/Hypothalamus]], [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]], [[Public/Endocrine System/Adrenal Cortex|adrenal cortex]]
 - Hormones involved: 
 	- CRF (Corticotropin Releasing Factor)
-	- ACTH (AdrenoCortico[[Hormones|Tropic]] Hormone)
+	- ACTH (AdrenoCortico[[Public/Endocrine System/Hormones|Tropic]] Hormone)
 	- Glucocorticoids
 		- Cortisol: in humans
 		- Cortisone: in rodents
-		- [[Types of Hormones|Steroid Hormones]]
+		- [[Public/Endocrine System/Types of Hormones|Steroid Hormones]]
 
 - What is it:
 	- The main stress response system (Dunlavey 2018)

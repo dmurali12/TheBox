@@ -2,12 +2,12 @@
 #Ectoderm
 
 # Overview
-![[Endocrine System/Endocrine System#Anterior Pituitary]]
+![[Public/Endocrine System/Endocrine System#Anterior Pituitary]]
 
 # Hormones
 
-- [[Endocrine System/HPA Axis|Adrenocorticotrophic hormone (ACTH)]] produced by **cortictrophs**
-- **Thyrotrophs** produce [[Endocrine System/Thyroid Axis|Thyroid Stimulating Hormone (TSH)]] 
+- [[Public/Endocrine System/HPA Axis|Adrenocorticotrophic hormone (ACTH)]] produced by **cortictrophs**
+- **Thyrotrophs** produce [[Public/Endocrine System/Thyroid Axis|Thyroid Stimulating Hormone (TSH)]] 
 - **Somatotrophs** produce [[Growth Hormone (GH)]]
 - **Gonadotrophs** produce [[Follicle Stimulating Hormone (FSH)]] and [[Lutenizing Hormone (LH)]]
 - **Lactotrophs** produce [[Prolactin| Prolactin (PLN)]]

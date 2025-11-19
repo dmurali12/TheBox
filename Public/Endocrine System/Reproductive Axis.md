@@ -23,8 +23,8 @@ O --> P
 
 ```
 
-1. GnRH expressing neurons in the [[hypothalamus]] releases [[Gonadotropin Releasing Hormone (GnRH)]]. 
-2. The [[anterior pituitary]], in response, releases [[Follicle Stimulating Hormone]] and [[Lutenizing Hormone]]
+1. GnRH expressing neurons in the [[Public/Endocrine System/Hypothalamus]] releases [[Gonadotropin Releasing Hormone (GnRH)]]. 
+2. The [[Public/Endocrine System/Anterior Pituitary]], in response, releases [[Follicle Stimulating Hormone]] and [[Lutenizing Hormone]]
 
 - Talk about anti mullerian hormone and mullerian ducts
 - mesonephric ducts
@@ -59,7 +59,7 @@ GRAPH HERE OF JUST FOLLICULAR PHASE
 The cycle resets, but in order to do that, the endometrial lining must shed. This is called the **menstrual cycle**.  
 
 1. **Menstrual phase**: uterus sheds endometrial lining
-	- Towards the end of this phase is when FSH and LH are released (first step of [[Reproductive Axis#Ovarian Cycle| ovarian cycle]])
+	- Towards the end of this phase is when FSH and LH are released (first step of [[Public/Endocrine System/Reproductive Axis#Ovarian Cycle| ovarian cycle]])
 2. **Proliferative phase**: the endometrial lining doubles in thickness and is vascularized to prep for embryo implantation
 3. **Secretory phase**: The high levels of progesterone and estrogen thicken and develop the endometrium
 

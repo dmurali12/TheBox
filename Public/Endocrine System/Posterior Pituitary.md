@@ -1,9 +1,9 @@
 #InProgress 
 
 - Does not produce hormones
-- Storage site for hormones produced by [[Hypothalamus|hypothalamus]]
+- Storage site for hormones produced by [[Public/Endocrine System/Hypothalamus|hypothalamus]]
 
-![[Endocrine System/Endocrine System#Posterior Pituitary]]
+![[Public/Endocrine System/Endocrine System#Posterior Pituitary]]
 - [[ADH]]
 - [[Oxytocin]]
 

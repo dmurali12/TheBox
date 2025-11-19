@@ -7,10 +7,10 @@
 - Once inside the nucleus, they bind to DNA and cause [[Gene Regulation|gene regulation]]
 
 #### Types of Steroid Hormones
-- [[HPA Axis|Glucocorticoids]]
+- [[Public/Endocrine System/HPA Axis|Glucocorticoids]]
 	- Cortisol/cortisone
 	- Prednisone
 - Mineralocorticoids
-	- [[Renin-Angiotenisin-Aldosterone System|Aldosterone]]
+	- [[Public/Endocrine System/Renin-Angiotenisin-Aldosterone System|Aldosterone]]
 - Androgens
 - [[Menstrual Cycle|Estrogens and Progestens]]
