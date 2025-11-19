@@ -2,11 +2,11 @@
 #Ectoderm
 
 # Overview
-![[Public/Endocrine System/Endocrine System#Anterior Pituitary]]
-
+- Made of glandular tissue that can both synthesize and secrete [[Public/Endocrine System/Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.
+- 
 # Hormones
 
-- [[Public/Endocrine System/HPA Axis|Adrenocorticotrophic hormone (ACTH)]] produced by **cortictrophs**
+- **Corticotrophs** produce [[Public/Endocrine System/HPA Axis|Adrencocorticotropic Hormone (ACTH)]]
 - **Thyrotrophs** produce [[Public/Endocrine System/Thyroid Axis|Thyroid Stimulating Hormone (TSH)]] 
 - **Somatotrophs** produce [[Growth Hormone (GH)]]
 - **Gonadotrophs** produce [[Follicle Stimulating Hormone (FSH)]] and [[Lutenizing Hormone (LH)]]

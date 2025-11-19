@@ -1,9 +1,5 @@
 [](Public/Endocrine%20System/Hypothalamus.md) #InProgress 
 
----
-title: HPG Axis
----
-
 - How organs and tissues communicate with each other
 - Allows organisms to respond to changes in internal and external stimuli to maintain homeostasis
 - Relies on hormonal communication
@@ -212,13 +208,17 @@ The [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]] (AP) is ma
 
 - [[Public/Endocrine System/Reproductive Axis|HPG Axis]]
 	- AP hormones: **FSH (Follicle Stimulating Hormone)** and **LH (Lutenizing Hormone)**
-	- 
+	- GnRH --> FSH + LH --> Androgens
 - [[Public/Endocrine System/HPA Axis|HPA Axis]]
+	- CRH --> ACTH --> glucocorticoids
 - [[Public/Endocrine System/Thyroid Axis|HPT Axis]]
+	- TRH --> TSH --> T3 + T4
 
 ##### Direct Hormones
 - [[Prolactin]]
+	- PIF (Dopamine) --| Prolactin
 - [[Endorphins]]
+	- 
 - [[Growth Hormone]]
 
 | Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect          |

@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Endocrine System/Amino Acid-Derived Hormones.md",
+                "file": "Public/Endocrine System/Endocrine System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amino Acid-Derived Hormones"
+              "title": "Endocrine System"
             }
           }
         ],
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b19a6b5b19ebd17e",
@@ -289,19 +290,20 @@
   },
   "active": "7ba1418d9768ff61",
   "lastOpenFiles": [
-    "Public/Endocrine System/Adrenal Cortex.md",
     "Public/Endocrine System/Reproductive Axis.md",
     "Public/Endocrine System/Endocrine System.md",
+    "Public/Endocrine System/Anterior Pituitary.md",
+    "Public/Endocrine System/HPA Axis.md",
+    "Public/Endocrine System/Thyroid Axis.md",
+    "Public/Endocrine System/Pituitary Gland.md",
+    "Public/Endocrine System/Amino Acid-Derived Hormones.md",
+    "Public/Endocrine System/Adrenal Cortex.md",
     "Public/Endocrine System/Renin-Angiotenisin-Aldosterone System.md",
     "Public/Endocrine System/Posterior Pituitary.md",
-    "Public/Endocrine System/Pituitary Gland.md",
     "Public/Endocrine System/Peptide Hormones.md",
     "Public/Endocrine System/Hypothalamus.md",
-    "Public/Endocrine System/HPA Axis.md",
     "Public/Endocrine System/Hormones.md",
     "Public/Endocrine System/Glucocorticoids.md",
-    "Public/Endocrine System/Anterior Pituitary.md",
-    "Public/Endocrine System/Amino Acid-Derived Hormones.md",
     "G-Protein Coupled Receptors.md",
     "Public",
     "GTPase.md",
@@ -315,7 +317,6 @@
     "Amino Acids.md",
     "Portal System.md",
     "Growth Hormone (GH).md",
-    "Prolactin (PLN).md",
     "Articles.base",
     "index.base",
     "CNAME",
