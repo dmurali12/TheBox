@@ -1,4 +1,9 @@
 [](Public/Endocrine%20System/Hypothalamus.md) #InProgress 
+
+---
+title: HPG Axis
+---
+
 - How organs and tissues communicate with each other
 - Allows organisms to respond to changes in internal and external stimuli to maintain homeostasis
 - Relies on hormonal communication
@@ -193,11 +198,11 @@ digraph Endocrine {
 ```
 
 
-## [[Public/Endocrine System/Pituitary Gland]]
+## [[Public/Endocrine System/Pituitary Gland|Pituitary Gland]]
 
 The pituitary gland has two lobes: the ***anterior** pituitary* and the ***posterior** pituitary*. How the hypothalamus sends the signal depends on which lobe the axis utilizes. 
 
-### [[Public/Endocrine System/Anterior Pituitary]]
+### [[Public/Endocrine System/Anterior Pituitary|Anterior Pituitary]]
 The [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]] (AP) is made of glandular tissue that can both synthesize and secrete [[Public/Endocrine System/Peptide Hormones|peptide hormones]]. The hypothalamus releases ***releasing*** and ***inhibiting*** factors into the ***hypophyseal [[portal system]]***.  
 - Hypothalamus sends ==endocrine hormones to anterior pituitary==
 
@@ -205,11 +210,11 @@ The [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]] (AP) is ma
 
 ##### Tropic Hormones
 
-- [[Public/Endocrine System/Reproductive Axis]]
+- [[Public/Endocrine System/Reproductive Axis|HPG Axis]]
 	- AP hormones: **FSH (Follicle Stimulating Hormone)** and **LH (Lutenizing Hormone)**
 	- 
-- [[Public/Endocrine System/HPA Axis]]
-- [[Public/Endocrine System/Thyroid Axis]]
+- [[Public/Endocrine System/HPA Axis|HPA Axis]]
+- [[Public/Endocrine System/Thyroid Axis|HPT Axis]]
 
 ##### Direct Hormones
 - [[Prolactin]]
