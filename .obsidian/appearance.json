@@ -3,5 +3,6 @@
   "baseFontSizeAction": true,
   "translucency": false,
   "accentColor": "#a061ff",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 20
 }
