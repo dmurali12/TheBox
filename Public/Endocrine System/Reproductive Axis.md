@@ -23,7 +23,7 @@ O --> P
 
 ```
 
-1. GnRH expressing neurons in the [[Public/Endocrine System/Hypothalamus]] releases [[Gonadotropin Releasing Hormone (GnRH)]]. 
+1. GnRH expressing neurons in the [[Public/Endocrine System/Hypothalamus|Hypothalamus]] releases [[Gonadotropin Releasing Hormone (GnRH)]]. 
 2. The [[Public/Endocrine System/Anterior Pituitary]], in response, releases [[Follicle Stimulating Hormone]] and [[Lutenizing Hormone]]
 
 - Talk about anti mullerian hormone and mullerian ducts
