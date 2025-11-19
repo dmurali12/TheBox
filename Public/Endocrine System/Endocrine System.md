@@ -218,8 +218,11 @@ The [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]] (AP) is ma
 - [[Prolactin]]
 	- PIF (Dopamine) --| Prolactin
 - [[Endorphins]]
-	- 
+	- CRH --> Endorphins
+	- Glucocorticoids --| Endorphins
 - [[Growth Hormone]]
+	- GHRH --> GH
+	- Somatostatin --| GH
 
 | Hypothalamic Hormone | AP Hormone | Target Tissue          | Effect          |
 | -------------------- | ---------- | ---------------------- | --------------- |
