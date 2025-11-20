@@ -1,8 +1,8 @@
 #InProgress 
 
+![[Pasted image 20251119221123.png]]
 
-
-- [[Public/Endocrine System/Hypothalamus]], [[Public/Endocrine System/Anterior Pituitary|anterior pituitary]], [[Public/Endocrine System/Adrenal Cortex|adrenal cortex]]
+The HPA Axis is engaged when the 
 - Hormones involved: 
 	- CRF (Corticotropin Releasing Factor)
 	- ACTH (AdrenoCortico[[Public/Endocrine System/Hormones|Tropic]] Hormone)
